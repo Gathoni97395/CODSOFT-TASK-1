@@ -7,7 +7,7 @@ The Titanic dataset provides information about passengers such as their age, cla
 Python, 
 Juypter notebooks
 
-Data Description
+### Data Description
 The dataset used for this project includes the following columns:
 
 PassengerId: The unique ID assigned to each passenger,Pclass: The passenger's class (1 = First Class, 2 = Second Class, 3 = Third Class), Name: The name of the passenger, Sex: Gender of the passenger (male or female), Age: The age of the passenger,
