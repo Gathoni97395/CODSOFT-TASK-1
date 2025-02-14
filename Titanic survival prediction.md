@@ -4,7 +4,7 @@ This project aims to predict the survival of passengers aboard the Titanic using
 ## Overview
 The Titanic dataset provides information about passengers such as their age, class, sex, and whether or not they survived the tragic sinking of the RMS Titanic. The goal of this project is to create a logistic regression model that can predict survival based on these features.
 
-Logistic regression was chosen due to its simplicity and effectiveness for binary classification tasks (survived or not).
+
 
 Data Description
 The dataset used for this project includes the following columns:
